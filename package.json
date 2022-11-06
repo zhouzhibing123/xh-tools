@@ -1,16 +1,16 @@
 {
-  "name": "xh-tools",
-  "version": "1.0.0",
-  "description": "some tools made by xingzhonghe",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "xingzhonghe",
-    "tool",
-    "tools"
-  ],
-  "author": "xingzhonghe",
-  "license": "ISC"
+    "name": "xzh-tools",
+    "version": "1.1.0",
+    "description": "some tools made by xingzhonghe",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "xingzhonghe",
+        "tool",
+        "tools"
+    ],
+    "author": "xingzhonghe",
+    "license": "ISC"
 }
