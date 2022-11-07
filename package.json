@@ -1,6 +1,6 @@
 {
     "name": "xzh-tools",
-    "version": "1.1.0",
+    "version": "1.1.6",
     "description": "some tools made by xingzhonghe",
     "main": "index.js",
     "scripts": {
@@ -12,5 +12,13 @@
         "tools"
     ],
     "author": "xingzhonghe",
-    "license": "ISC"
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zhouzhibing123/xh-tools.git"
+    },
+    "bugs": {
+        "url": "https://github.com/zhouzhibing123/xh-tools/issues"
+    },
+    "homepage": "https://github.com/zhouzhibing123/xh-tools#readme"
 }
