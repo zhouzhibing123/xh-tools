@@ -1,7 +1,7 @@
 /*
  * @Author: xingzhonghe
  * @Date: 2022-11-08 15:46:56
- * @LastEditTime: 2022-11-08 15:50:55
+ * @LastEditTime: 2022-11-08 16:20:24
  * @FilePath: \react18-2022d:\学习东东\npm自己的包\xh-tools\src\reactive\index.js
  * @Description: reactive function 
  * 
@@ -65,7 +65,6 @@ let _reactive = (obj) => {
             let dep = getDep(target, key);
             target[key] = value;
             dep.send();
-            console.log(allDepend.get(target).get('count'));
         }
     });
 }

@@ -1,7 +1,7 @@
 /*
  * @Author: xingzhonghe
  * @Date: 2022-11-06 12:13:33
- * @LastEditTime: 2022-11-08 16:02:18
+ * @LastEditTime: 2022-11-08 16:23:02
  * @FilePath: \react18-2022d:\学习东东\npm自己的包\xh-tools\index.js
  * @Description: 
  * 
@@ -17,6 +17,7 @@ const { _randomNumber } = require(`${baseUrl}random-number/index.js`);
 const { _clone } = require(`${baseUrl}clone/index.js`);
 const { _conutTime } = require(`${baseUrl}count-time/index.js`);
 const { _reactive,_watchEffect } = require(`${baseUrl}reactive/index.js`);
+
 
 module.exports = {
     _shake,
